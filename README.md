@@ -1,3 +1,3 @@
 Finnish translation for Allumeria by Unomelon Games
 
-Version: Alpha 0.9.6
+Version: Alpha 0.9.7
